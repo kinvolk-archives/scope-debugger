@@ -1,0 +1,4 @@
+package: github.com/weaveworks-plugins/scope-debugger
+import:
+- package: github.com/Sirupsen/logrus
+  version: ~0.10.0

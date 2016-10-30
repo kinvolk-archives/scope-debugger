@@ -1,1 +1,2 @@
-# scope-debugger
+# Debugger Plugin for Weave Scope
+
